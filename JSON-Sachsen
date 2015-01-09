@@ -3,7 +3,7 @@
 	"features": [
 		{
 			"type": "Feature",
-			"properties":{ "USE": 2, "RS": "14", "RS_ALT": "140000000000", "GEN": "Sachsen", "SHAPE_LENG": 979660.54496, "SHAPE_AREA": 18401910090.4}, 
+			"properties":{ "GEN": "Sachsen" }, 
 			"geometry": {
 				"type": "Polygon",
 				"coordinates": [[[18.900844051128907,51.646989832718035],
